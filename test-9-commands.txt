@@ -1,0 +1,14 @@
+# balance is exactly eual to transaction amount + fee
+login mertg 080499 231.43.171.61
+login mmdarden 196204 200.00.000.00
+place 08:03:01:40:22:36 231.43.171.61 mertg paoletti 2000 08:03:02:40:22:34 o
+# transaction to self and shared cost
+place 08:04:01:40:22:36 200.00.000.00 mmdarden paoletti 3000 08:04:02:00:00:00 s
+login paoletti 372819 100.000.000.000
+# this will fail, recip fee > 15 which is balance of mmdarden
+place 08:04:02:01:01:01 100.000.000.000 paoletti mmdarden 5000 08:04:02:02:01:01 s
+# recipe fee = recip balance 16 for sender 15 for recip, mmdarden will now have exactly 3000
+place 08:04:03:01:01:01 100.000.000.000 paoletti mmdarden 3100 08:04:04:02:01:01 s
+$$$
+h mertg
+h mmdarden

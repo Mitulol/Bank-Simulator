@@ -1,0 +1,135 @@
+User mertg logged in.
+Transaction placed at 80301402236: $2000 from mertg to paoletti at 80302402234.
+Transaction executed at 80302402234: $2000 from mertg to paoletti.
+Transaction placed at 80401010101: $3000 from mertg to paoletti at 80401010101.
+Transaction executed at 80401010101: $3000 from mertg to paoletti.
+Transaction placed at 80401010102: $3000 from mertg to paoletti at 80401010102.
+Transaction executed at 80401010102: $3000 from mertg to paoletti.
+Transaction placed at 80401010102: $3000 from mertg to paoletti at 80401010102.
+Transaction executed at 80401010102: $3000 from mertg to paoletti.
+Transaction placed at 80401010102: $3000 from mertg to paoletti at 80401010102.
+Transaction executed at 80401010102: $3000 from mertg to paoletti.
+Transaction placed at 80401010102: $3000 from mertg to paoletti at 80401010102.
+User paoletti logged in.
+User mertg logged in.
+Transaction executed at 80401010102: $3000 from mertg to paoletti.
+Transaction placed at 80401010102: $3000 from mertg to paoletti at 80401010102.
+Insufficient funds to process transaction 6.
+Transaction placed at 80402010102: $3000 from mertg to paoletti at 80403010102.
+Insufficient funds to process transaction 7.
+Transaction placed at 80403010102: $3000 from paoletti to mertg at 80403010102.
+Transaction executed at 80403010102: $3000 from paoletti to mertg.
+Transaction placed at 80405010102: $3000 from mertg to paoletti at 80407010102.
+Transaction placed at 80405020101: $5000 from paoletti to mertg at 80405020201.
+Transaction executed at 80405020201: $5000 from paoletti to mertg.
+Transaction executed at 80407010102: $3000 from mertg to paoletti.
+Transaction placed at 80505020201: $5 from mertg to paoletti at 80505020203.
+Transaction executed at 80505020203: $5 from mertg to paoletti.
+Transaction placed at 80505030101: $50000 from paoletti to mertg at 80505030201.
+Transaction executed at 80505030201: $50000 from paoletti to mertg.
+Transaction placed at 130101402234: $50000 from paoletti to mertg at 130101452234.
+Transaction placed at 130101402235: $50000 from paoletti to mitul at 130101422234.
+Transaction executed at 130101422234: $50000 from paoletti to mitul.
+Transaction executed at 130101452234: $50000 from paoletti to mertg.
+Transaction placed at 130201010101: $1 from paoletti to mitul at 130202010102.
+Transaction placed at 130201010103: $1 from mertg to paoletti at 130202010101.
+Transaction placed at 130201010203: $1 from mertg to paoletti at 130202010102.
+Transaction placed at 130201010303: $1 from mertg to paoletti at 130204010107.
+Transaction placed at 130201010403: $4 from mertg to paoletti at 130203010106.
+Transaction executed at 130202010101: $1 from mertg to paoletti.
+Transaction executed at 130202010102: $1 from paoletti to mitul.
+Transaction executed at 130202010102: $1 from mertg to paoletti.
+Transaction executed at 130203010106: $4 from mertg to paoletti.
+Transaction executed at 130204010107: $1 from mertg to paoletti.
+0: mertg sent 2000 dollars to paoletti at 80302402234.
+1: mertg sent 3000 dollars to paoletti at 80401010101.
+2: mertg sent 3000 dollars to paoletti at 80401010102.
+3: mertg sent 3000 dollars to paoletti at 80401010102.
+4: mertg sent 3000 dollars to paoletti at 80401010102.
+5: mertg sent 3000 dollars to paoletti at 80401010102.
+8: paoletti sent 3000 dollars to mertg at 80403010102.
+10: paoletti sent 5000 dollars to mertg at 80405020201.
+9: mertg sent 3000 dollars to paoletti at 80407010102.
+11: mertg sent 5 dollars to paoletti at 80505020203.
+12: paoletti sent 50000 dollars to mertg at 80505030201.
+14: paoletti sent 50000 dollars to mitul at 130101422234.
+13: paoletti sent 50000 dollars to mertg at 130101452234.
+16: mertg sent 1 dollar to paoletti at 130202010101.
+15: paoletti sent 1 dollar to mitul at 130202010102.
+17: mertg sent 1 dollar to paoletti at 130202010102.
+19: mertg sent 4 dollars to paoletti at 130203010106.
+There were 17 transactions that were placed between time 80301402236 to 130204010107.
+0: mertg sent 2000 dollars to paoletti at 80302402234.
+1: mertg sent 3000 dollars to paoletti at 80401010101.
+2: mertg sent 3000 dollars to paoletti at 80401010102.
+3: mertg sent 3000 dollars to paoletti at 80401010102.
+4: mertg sent 3000 dollars to paoletti at 80401010102.
+5: mertg sent 3000 dollars to paoletti at 80401010102.
+8: paoletti sent 3000 dollars to mertg at 80403010102.
+10: paoletti sent 5000 dollars to mertg at 80405020201.
+9: mertg sent 3000 dollars to paoletti at 80407010102.
+11: mertg sent 5 dollars to paoletti at 80505020203.
+12: paoletti sent 50000 dollars to mertg at 80505030201.
+14: paoletti sent 50000 dollars to mitul at 130101422234.
+13: paoletti sent 50000 dollars to mertg at 130101452234.
+16: mertg sent 1 dollar to paoletti at 130202010101.
+15: paoletti sent 1 dollar to mitul at 130202010102.
+17: mertg sent 1 dollar to paoletti at 130202010102.
+19: mertg sent 4 dollars to paoletti at 130203010106.
+18: mertg sent 1 dollar to paoletti at 130204010107.
+There were 18 transactions that were placed between time 80301402236 to 130204010108.
+281Bank has collected 1442 dollars in fees over 4 years 99 months 2 days 60 hours 78 minutes 71 seconds.
+281Bank has collected 1449 dollars in fees over 4 years 99 months 2 days 60 hours 78 minutes 72 seconds.
+281Bank has collected 740 dollars in fees over 1 year 2 days 1 minute 4 seconds.
+Customer mertg account summary:
+Balance: $107428
+Total # of transactions: 16
+Incoming 4:
+8: paoletti sent 3000 dollars to mertg at 80403010102.
+10: paoletti sent 5000 dollars to mertg at 80405020201.
+12: paoletti sent 50000 dollars to mertg at 80505030201.
+13: paoletti sent 50000 dollars to mertg at 130101452234.
+Outgoing 12:
+2: mertg sent 3000 dollars to paoletti at 80401010102.
+3: mertg sent 3000 dollars to paoletti at 80401010102.
+4: mertg sent 3000 dollars to paoletti at 80401010102.
+5: mertg sent 3000 dollars to paoletti at 80401010102.
+9: mertg sent 3000 dollars to paoletti at 80407010102.
+11: mertg sent 5 dollars to paoletti at 80505020203.
+16: mertg sent 1 dollar to paoletti at 130202010101.
+17: mertg sent 1 dollar to paoletti at 130202010102.
+19: mertg sent 4 dollars to paoletti at 130203010106.
+18: mertg sent 1 dollar to paoletti at 130204010107.
+Customer paoletti account summary:
+Balance: $761293
+Total # of transactions: 18
+Incoming 12:
+2: mertg sent 3000 dollars to paoletti at 80401010102.
+3: mertg sent 3000 dollars to paoletti at 80401010102.
+4: mertg sent 3000 dollars to paoletti at 80401010102.
+5: mertg sent 3000 dollars to paoletti at 80401010102.
+9: mertg sent 3000 dollars to paoletti at 80407010102.
+11: mertg sent 5 dollars to paoletti at 80505020203.
+16: mertg sent 1 dollar to paoletti at 130202010101.
+17: mertg sent 1 dollar to paoletti at 130202010102.
+19: mertg sent 4 dollars to paoletti at 130203010106.
+18: mertg sent 1 dollar to paoletti at 130204010107.
+Outgoing 6:
+8: paoletti sent 3000 dollars to mertg at 80403010102.
+10: paoletti sent 5000 dollars to mertg at 80405020201.
+12: paoletti sent 50000 dollars to mertg at 80505030201.
+14: paoletti sent 50000 dollars to mitul at 130101422234.
+13: paoletti sent 50000 dollars to mertg at 130101452234.
+15: paoletti sent 1 dollar to mitul at 130202010102.
+Summary of [80401000000, 80402000000):
+1: mertg sent 3000 dollars to paoletti at 80401010101.
+2: mertg sent 3000 dollars to paoletti at 80401010102.
+3: mertg sent 3000 dollars to paoletti at 80401010102.
+4: mertg sent 3000 dollars to paoletti at 80401010102.
+5: mertg sent 3000 dollars to paoletti at 80401010102.
+There were a total of 5 transactions, 281Bank has collected 150 dollars in fees.
+Summary of [130202000000, 130203000000):
+16: mertg sent 1 dollar to paoletti at 130202010101.
+15: paoletti sent 1 dollar to mitul at 130202010102.
+17: mertg sent 1 dollar to paoletti at 130202010102.
+There were a total of 3 transactions, 281Bank has collected 21 dollars in fees.

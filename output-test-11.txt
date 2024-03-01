@@ -1,0 +1,31 @@
+User mitul logged in.
+Transaction placed at 80101010110: $20000 from mitul to paoletti at 80102010101.
+Insufficient funds to process transaction 0.
+Transaction placed at 130101010100: $14500 from mitul to paoletti at 130101010101.
+Transaction executed at 130101010101: $14500 from mitul to paoletti.
+Transaction placed at 130101010101: $7500 from mitul to paoletti at 130101010103.
+Insufficient funds to process transaction 2.
+Transaction placed at 131010101010: $7500 from mitul to mehul at 131013101010.
+Insufficient funds to process transaction 3.
+1: mitul sent 14500 dollars to paoletti at 130101010101.
+There was 1 transaction that was placed between time 80102010101 to 131013101011.
+281Bank has collected 145 dollars in fees over 5 years 9 months 11 days 9 hours 9 minutes 10 seconds.
+Customer mertg account summary:
+Balance: $20000
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+Customer paoletti account summary:
+Balance: $914428
+Total # of transactions: 1
+Incoming 1:
+1: mitul sent 14500 dollars to paoletti at 130101010101.
+Outgoing 0:
+Customer mehul account summary:
+Balance: $10000
+Total # of transactions: 0
+Incoming 0:
+Outgoing 0:
+Summary of [130101000000, 130102000000):
+1: mitul sent 14500 dollars to paoletti at 130101010101.
+There was a total of 1 transaction, 281Bank has collected 145 dollars in fees.

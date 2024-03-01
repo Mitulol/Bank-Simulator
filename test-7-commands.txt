@@ -1,0 +1,46 @@
+login mertg 080499 231.43.171.61
+place 08:03:01:40:22:36 231.43.171.61 mertg paoletti 2000 08:03:02:40:22:34 s
+place 08:04:01:01:01:01 231.43.171.61 mertg paoletti 3000 08:04:01:01:01:01 s
+place 08:04:01:01:01:02 231.43.171.61 mertg paoletti 3000 08:04:01:01:01:02 s
+place 08:04:01:01:01:02 231.43.171.61 mertg paoletti 3000 08:04:01:01:01:02 s
+place 08:04:01:01:01:02 231.43.171.61 mertg paoletti 3000 08:04:01:01:01:02 s
+place 08:04:01:01:01:02 231.43.171.61 mertg paoletti 3000 08:04:01:01:01:02 s
+login paoletti 372819 231.45.170.60
+login mertg 080499 230.43.171.61
+#insuffiecient funds
+place 08:04:01:01:01:02 230.43.171.61 mertg paoletti 3000 08:04:01:01:01:02 s
+place 08:04:02:01:01:02 231.43.171.61 mertg paoletti 3000 08:04:03:01:01:02 s
+# insuffiecient funds will be printed here even though money comes in exactly when money goes out
+place 08:04:03:01:01:02 231.45.170.60 paoletti mertg 3000 08:04:03:01:01:02 s
+# this will get placed
+place 08:04:05:01:01:02 230.43.171.61 mertg paoletti 3000 08:04:07:01:01:02 s
+# mertg gets money just before transaction executes
+place 08:04:05:02:01:01 231.45.170.60 paoletti mertg 5000 08:04:05:02:02:01 s
+#out mertg 231.43.171.61
+# transaction amount is 5 min fees should be 10
+place 08:05:05:02:02:01 230.43.171.61 mertg paoletti 5 08:05:05:02:02:03 s
+#fees should be 450
+place 08:05:05:03:01:01 231.45.170.60 paoletti mertg 50000 08:05:05:03:02:01 s
+# fees should still be 450
+place 13:01:01:40:22:34 231.45.170.60 paoletti mertg 50000 13:01:01:45:22:34 s
+# fees will be 337
+place 13:01:01:40:22:35 231.45.170.60 paoletti mitul 50000 13:01:01:42:22:34 s
+place 13:02:01:01:01:01 231.45.170.60 paoletti mitul 1 13:02:02:01:01:02 s
+place 13:02:01:01:01:03 230.43.171.61 mertg paoletti 1 13:02:02:01:01:01 s
+place 13:02:01:01:02:03 230.43.171.61 mertg paoletti 1 13:02:02:01:01:02 o
+# this is last executed 
+place 13:02:01:01:03:03 230.43.171.61 mertg paoletti 1 13:02:04:01:01:07 s
+place 13:02:01:01:04:03 230.43.171.61 mertg paoletti 4 13:02:03:01:01:06 o
+# place 13:02:01:01:05:03 230.43.171.61 mertg paoletti 4 13:02:02:01:01:05 s
+# place 13:02:01:01:06:03 230.43.171.61 mertg paoletti 4 13:02:02:01:01:07 o
+# The operations section ends with $$$, followed by the queries (if any).
+$$$
+l 08:03:01:40:22:36 13:02:04:01:01:07
+l 08:03:01:40:22:36 13:02:04:01:01:08
+r 08:03:01:40:22:36 13:02:04:01:01:07
+r 08:03:01:40:22:36 13:02:04:01:01:08
+r 08:03:01:40:22:36 09:03:03:40:23:40 
+h mertg
+h paoletti
+s 08:04:01:30:22:36
+s 13:02:02:34:12:34

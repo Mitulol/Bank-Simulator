@@ -1,0 +1,72 @@
+Failed to log in mertg.
+Failed to log in noobody.
+User mertg logged in.
+Failed to log out mertg.
+User mertg logged out.
+Failed to log out nobody.
+Sender mertg is not logged in.
+User mertg logged in.
+User mertg logged in.
+User mertg logged out.
+Failed to log out mertg.
+User mertg logged in.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 90301402236: $2000 from mertg to mitul at 90304402236.
+Transaction executed at 90304402236: $2000 from mertg to mitul.
+Transaction placed at 100301402236: $2000 from mertg to mitul at 100304402236.
+User mertg logged out.
+User mitul logged in.
+User mitul logged in.
+Fraudulent transaction detected, aborting request.
+Transaction executed at 100304402236: $2000 from mertg to mitul.
+Transaction placed at 110301402238: $1 from mitul to mmdarden at 110302402236.
+Transaction executed at 110302402236: $1 from mitul to mmdarden.
+Transaction placed at 110410101010: $1 from mitul to mitul at 110413101010.
+User mitul logged out.
+Transaction executed at 110413101010: $1 from mitul to mitul.
+Transaction placed at 120301402236: $1 from mitul to paoletti at 120304402236.
+Transaction placed at 120301402237: $1 from mitul to paoletti at 120304402236.
+Transaction placed at 120301402238: $1 from mitul to paoletti at 120304402236.
+User mitul logged out.
+Transaction executed at 120304402236: $1 from mitul to paoletti.
+Transaction executed at 120304402236: $1 from mitul to paoletti.
+Transaction executed at 120304402236: $1 from mitul to paoletti.
+Invalid timestamps
+There were 0 transactions that were placed between time 50403020100 to 60504030201.
+There were 0 transactions that were placed between time 50403020100 to 60403040101.
+4: mitul sent 1 dollar to paoletti at 120304402236.
+5: mitul sent 1 dollar to paoletti at 120304402236.
+6: mitul sent 1 dollar to paoletti at 120304402236.
+There were 3 transactions that were placed between time 120304402236 to 120304402236.
+Invalid timestamps
+281Bank has collected 0 dollars in fees over 1 year 1 month 1 day 1 hour 1 minute 1 second.
+281Bank has collected 30 dollars in fees over.
+281Bank has collected 0 dollars in fees over 1 second.
+User nobody does not exist.
+Customer mitul account summary:
+Balance: $23951
+Total # of transactions: 8
+Incoming 3:
+0: mertg sent 2000 dollars to mitul at 90304402236.
+1: mertg sent 2000 dollars to mitul at 100304402236.
+3: mitul sent 1 dollar to mitul at 110413101010.
+Outgoing 5:
+2: mitul sent 1 dollar to mmdarden at 110302402236.
+3: mitul sent 1 dollar to mitul at 110413101010.
+4: mitul sent 1 dollar to paoletti at 120304402236.
+5: mitul sent 1 dollar to paoletti at 120304402236.
+6: mitul sent 1 dollar to paoletti at 120304402236.
+Customer mertg account summary:
+Balance: $15970
+Total # of transactions: 2
+Incoming 0:
+Outgoing 2:
+0: mertg sent 2000 dollars to mitul at 90304402236.
+1: mertg sent 2000 dollars to mitul at 100304402236.
+Summary of [50403000000, 50404000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [120304000000, 120305000000):
+4: mitul sent 1 dollar to paoletti at 120304402236.
+5: mitul sent 1 dollar to paoletti at 120304402236.
+6: mitul sent 1 dollar to paoletti at 120304402236.
+There were a total of 3 transactions, 281Bank has collected 30 dollars in fees.

@@ -1,0 +1,26 @@
+User mertg logged in.
+User mmdarden logged in.
+Transaction placed at 80301402236: $2000 from mertg to mertg at 80302402234.
+Transaction executed at 80302402234: $2000 from mertg to mertg.
+Transaction placed at 80401402236: $3000 from mmdarden to mmdarden at 80402000000.
+Failed to log out someone.
+Failed to log out mertg.
+User mertg logged out.
+Failed to log out mertg.
+Failed to log out mertg.
+User mmdarden logged out.
+Transaction executed at 80402000000: $3000 from mmdarden to mmdarden.
+Customer mertg account summary:
+Balance: $2000
+Total # of transactions: 2
+Incoming 1:
+0: mertg sent 2000 dollars to mertg at 80302402234.
+Outgoing 1:
+0: mertg sent 2000 dollars to mertg at 80302402234.
+Customer mmdarden account summary:
+Balance: $3000
+Total # of transactions: 2
+Incoming 1:
+1: mmdarden sent 3000 dollars to mmdarden at 80402000000.
+Outgoing 1:
+1: mmdarden sent 3000 dollars to mmdarden at 80402000000.

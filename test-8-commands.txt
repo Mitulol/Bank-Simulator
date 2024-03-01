@@ -1,0 +1,21 @@
+# transactions to self and balance is exactly eual to transaction amount + fee
+login mertg 080499 231.43.171.61
+login mmdarden 196204 200.00.000.00
+# transaction to self and not shared cose
+place 08:03:01:40:22:36 231.43.171.61 mertg mertg 2000 08:03:02:40:22:34 o
+# transaction to self and shared cost
+place 08:04:01:40:22:36 200.00.000.00 mmdarden mmdarden 3000 08:04:02:00:00:00 s
+#user does not exist logout
+out someone 230.14.112.56
+# wrong IP logout
+out mertg 230.43.171.61
+# correct logout
+out mertg 231.43.171.61
+# already logged out
+out mertg 231.43.171.61
+# already logged out + wrong IP
+out mertg 230.43.171.61
+out mmdarden 200.00.000.00
+$$$
+h mertg
+h mmdarden
